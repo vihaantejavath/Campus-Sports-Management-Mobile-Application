@@ -1,4 +1,5 @@
 College Sports Management App
+
 The College Sports Management App is a mobile application designed to streamline sports management processes within college campuses. Developed using Flutter, this application offers a user-friendly interface and cross-platform compatibility for efficient sports activity management.
 
 Features
