@@ -3,12 +3,26 @@
 The College Sports Management App is a mobile application designed to streamline sports management processes within college campuses. Developed using Flutter, this application offers a user-friendly interface and cross-platform compatibility for efficient sports activity management.
 
 ## Features
+- **User-Friendly Interface**: Intuitive design for easy navigation and accessibility.
+![Hi-fi Main Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/717a26bd-5966-4e2d-9304-18c0ccc7d4ae)
+
 
 - **QR Code Scanning**: Scan QR codes to record attendance and track participation in sports activities.
+![Hi-fi Qr Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/40cab094-0a78-45dd-bbc3-73b1f632825c)
+
 - **Firebase Integration**: Utilize Firebase services for real-time data storage, authentication, and more.
-- **User-Friendly Interface**: Intuitive design for easy navigation and accessibility.
+![Hi-fi Admin Notification Update Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/5f728799-90ff-42d7-a5b5-dd2d5390e721)
+
 - **Cloud Storage**: Store and manage sports-related documents and media files securely in the cloud.
+  
+![Database](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ae31993f-c7e3-4a38-aac6-926a982f31be)
+
 - **Admin Panel**: Access an admin panel to manage users, activities, and data efficiently.
+
+![Hi-fi login Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ea3dc1ef-850b-4cfb-921f-1e3eeb29532d)
+
+![Hi-fi Admin Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/e4bf1017-e365-4e1b-8524-43c8a54e1bb2)
+
 
 ## Getting Started
 
