@@ -4,24 +4,20 @@ The College Sports Management App is a mobile application designed to streamline
 
 ## Features
 - **User-Friendly Interface**: Intuitive design for easy navigation and accessibility.
-![Hi-fi Main Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/717a26bd-5966-4e2d-9304-18c0ccc7d4ae)
-
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/717a26bd-5966-4e2d-9304-18c0ccc7d4ae" alt="Hi-fi Main Page" width="200" height="400">
 
 - **QR Code Scanning**: Scan QR codes to record attendance and track participation in sports activities.
-![Hi-fi Qr Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/40cab094-0a78-45dd-bbc3-73b1f632825c)
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/40cab094-0a78-45dd-bbc3-73b1f632825c" alt="Hi-fi Qr Page" width="200" height="400">
 
 - **Firebase Integration**: Utilize Firebase services for real-time data storage, authentication, and more.
-![Hi-fi Admin Notification Update Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/5f728799-90ff-42d7-a5b5-dd2d5390e721)
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/5f728799-90ff-42d7-a5b5-dd2d5390e721" alt="Hi-fi Admin Notification Update Page" width="200" height="400">
 
 - **Cloud Storage**: Store and manage sports-related documents and media files securely in the cloud.
-  
-![Database](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ae31993f-c7e3-4a38-aac6-926a982f31be)
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ae31993f-c7e3-4a38-aac6-926a982f31be" alt="Database" width="500" height="250">
 
 - **Admin Panel**: Access an admin panel to manage users, activities, and data efficiently.
-
-![Hi-fi login Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ea3dc1ef-850b-4cfb-921f-1e3eeb29532d)
-
-![Hi-fi Admin Page](https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/e4bf1017-e365-4e1b-8524-43c8a54e1bb2)
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/ea3dc1ef-850b-4cfb-921f-1e3eeb29532d" alt="Hi-fi login Page" width="200" height="400">
+<img src="https://github.com/vihaantejavath/Campus-Sports-Management-Mobile-Application/assets/112147421/e4bf1017-e365-4e1b-8524-43c8a54e1bb2" alt="Hi-fi Admin Page" width="200" height="400">
 
 
 ## Getting Started
@@ -58,7 +54,7 @@ Firebase is a comprehensive mobile and web development platform provided by Goog
 
 To build APKs for distribution, follow these steps:
 
-1. **Flutter Build**: Run the following command to build the APK:
+1. **Flutter Build**: Check the flutter docs for commands to build and install in the mobile phone for real time prototyping
 
 2. **Locate APK**: Once the build process is complete, navigate to the `build/app/outputs/flutter-apk` directory to find the generated APK file.
 
