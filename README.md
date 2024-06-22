@@ -72,7 +72,7 @@ Contributions to the College Sports Management App project are welcome! To contr
 
 ## Support and Feedback
 
-For support or feedback regarding the College Sports Management App, please contact the project maintainers at [vihaantejavath@gmail.com](mailto:vihaantejavath@gmail.com).
+For support or feedback regarding the College Sports Management App, contact at [vihaantejavath@gmail.com](mailto:vihaantejavath@gmail.com).
 
 ## Future Development
 
